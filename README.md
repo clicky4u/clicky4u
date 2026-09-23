@@ -3,23 +3,23 @@
 </h1>
 
 <h3 align="center">
-🚀 Python Developer | IT Student | Automation Enthusiast
+💻 Python Developer | IT Support | Automation
 </h3>
 
 <p align="center">
-Final-Year Information Technology Student from Cambodia 🇰🇭
+Cambodia 🇰🇭
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-Year Information Technology Student
-- 💻 Passionate about Python Development
-- 🖥️ Building Desktop Applications with PyQt5
-- 🌐 Learning Web Development & Databases
-- 🔧 Interested in IT Support & System Administration
-- 🚀 Always learning new technologies
+- 💻 Interested in Python development and IT
+- 🐍 Build small tools and desktop applications with Python
+- 🔧 Enjoy troubleshooting computer and software problems
+- 🌐 Learning web development and databases
+- ⚙️ Interested in automation and useful tools
+- 🚀 Always trying to learn and improve
 
 ---
 
@@ -31,19 +31,19 @@ Final-Year Information Technology Student from Cambodia 🇰🇭
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects
 
 ### 🖥️ SocialForge
-PyQt5 desktop application featuring account management, automation workflows, status checking, and CSV reporting.
+A Python desktop application for account management, automation, status checking, and CSV reports.
 
 ### 📚 E-Library App
-Flutter application for managing digital books and educational resources.
+A Flutter app for managing digital books and educational resources.
 
 ### 🎬 YouTube Downloader
-Python desktop application using FFmpeg for downloading and managing videos.
+A Python desktop tool for downloading and managing videos using FFmpeg.
 
 ### 🛒 E-Commerce Platform
-Modern Vue.js e-commerce application with responsive design.
+A Vue.js web application with a responsive design.
 
 ---
 
@@ -59,7 +59,7 @@ Modern Vue.js e-commerce application with responsive design.
 
 ---
 
-## ⚡ Technologies I Use
+## ⚡ Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
@@ -71,21 +71,21 @@ Modern Vue.js e-commerce application with responsive design.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Working On
 
-- Python Desktop Applications
-- IT Support & Troubleshooting
-- Web Development
-- Database Management
-- Automation Tools
+- Python applications
+- IT support and troubleshooting
+- Automation tools
+- Web development
+- Database projects
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:chenlisal55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chenlisal55@gmail.com-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-chenlisal55%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
@@ -98,5 +98,5 @@ Modern Vue.js e-commerce application with responsive design.
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile!
 </p>
